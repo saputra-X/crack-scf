@@ -10,4 +10,7 @@
     $ pkg install
     $ pip3 beautifulsoup4
     $ pip install futures
-    $ git clone
+    $ git clone https://github.com/saputra-X/crack-scf
+    $ cd crack-scf
+    $ git pull
+    $ python scf.py
