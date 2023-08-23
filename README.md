@@ -17,4 +17,4 @@
 
 
 
-<h1 ="left">wa<a href="https://wa.me/6285726360406></a></h1>
+<a href="https://wa.me/+6285726360406">AnchorTeks</a>
