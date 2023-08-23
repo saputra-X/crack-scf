@@ -17,4 +17,8 @@
 
 
 
-<a href="https://wa.me/+6285726360406">wa sayaTeks</a>
+
+<a href="https://wa.me/+6285726360406">wa sayaT</a>
+
+
+<h2 align="left">thanks to saputra-X</h2>
