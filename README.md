@@ -18,7 +18,7 @@
 
 
 
-<a href="https://wa.me/+6285726360406">wa sayaT</a>
+<a href="https://wa.me/+6285726360406">wa saya</a>
 
 
-<h2 align="left">thanks to saputra-X</h2>
+<h5 align="left">thanks to saputra-X</h5>
