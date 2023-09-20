@@ -9,6 +9,8 @@
     $ pkg install python
     $ pip3 beautifulsoup4
     $ pip install futures
+    $ pip install requests
+    $ pip install rich
     $ git clone https://github.com/saputra-X/crack-scf
     $ cd crack-scf
     $ git pull
